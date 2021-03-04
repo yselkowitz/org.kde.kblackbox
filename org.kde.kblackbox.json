@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/libkdegames-20.12.2.tar.xz",
-                    "sha256": "19d93fe25f1ea5173d5130b2d270038b26e6cc6f09238724f330d05fbe019439"
+                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/libkdegames-20.12.3.tar.xz",
+                    "sha256": "401b919640eea95ec8feab1ce0914db2750fafc19893c424eed8ea37e5e216d1"
                 } 
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/kblackbox-20.12.2.tar.xz",
-                    "sha256": "05931e31d6ebc1daac240f266e77fcb037a8ccdfb963e08334faaf1421f0cbb0"
+                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/kblackbox-20.12.3.tar.xz",
+                    "sha256": "47d3c9277e1daca2e78c93abda49e10b03f5429a6f554976ddb5a126841b9c7c"
                 },
                 {
                     "type": "patch",

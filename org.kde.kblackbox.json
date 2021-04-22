@@ -32,10 +32,6 @@
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/21.04.0/src/kblackbox-21.04.0.tar.xz",
                     "sha256": "492229ddbfedd1e4d776764bfbdda194d9cd27a01d3662806a382a5ff1006a9d"
-                },
-                {
-                    "type": "patch",
-                    "path": "appdata.patch"
                 }               
             ]
         }

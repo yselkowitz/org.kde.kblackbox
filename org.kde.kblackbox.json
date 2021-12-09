@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.3/src/libkdegames-21.08.3.tar.xz",
-                    "sha256": "2a10f38868cc52a09d6b8cbdf6f1e706e6b96b57d1e7817d610788abcc2b4c7b"
+                    "url": "https://download.kde.org/stable/release-service/21.12.0/src/libkdegames-21.12.0.tar.xz",
+                    "sha256": "821b5e4fe68e8a3a5ab72caec240dd603baf100aae0e48658bba0aa6b5db9426"
                 } 
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.3/src/kblackbox-21.08.3.tar.xz",
-                    "sha256": "f28ee4264e9041050889659e2ca9f40fc34c7aa2196b4216715309c2cb2e8cc4"
+                    "url": "https://download.kde.org/stable/release-service/21.12.0/src/kblackbox-21.12.0.tar.xz",
+                    "sha256": "892d457bd7a2726e009ed54d799ec6f66f0c2480178b236a03853a93bd728a26"
                 }               
             ]
         }
